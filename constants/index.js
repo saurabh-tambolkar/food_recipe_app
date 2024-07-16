@@ -1,0 +1,32 @@
+export const categoryData = [
+    {
+        id:1,
+        name:"Starter",
+        image:"https://www.themealdb.com/images/category/starter.png"
+    },
+    {
+        id:2,
+        name:"Beef",
+        image:"https://www.themealdb.com/images/category/beef.png"
+    },
+    {
+        id:3,
+        name:"Dessert",
+        image:"https://www.themealdb.com/images/category/dessert.png"
+    },
+    {
+        id:4,
+        name:"Dessert",
+        image:"https://www.themealdb.com/images/category/dessert.png"
+    },
+    {
+        id:5,
+        name:"Dessert",
+        image:"https://www.themealdb.com/images/category/dessert.png"
+    },
+    {
+        id:6,
+        name:"Dessert",
+        image:"https://www.themealdb.com/images/category/dessert.png"
+    },
+]
